@@ -30,3 +30,4 @@ ENV XUI_PASSWORD=admin
 EXPOSE 54321 8080
 
 ENTRYPOINT ["/start.sh"]
+# Déploiement v2
